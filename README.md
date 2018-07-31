@@ -6,10 +6,13 @@ Sensibiliser l’opinion publique et nos politiques aux risques/dangers qu’il 
 Une lettre signée par un collectif de professionnels de l’informatique qui mets en garde nos politiques et citoyens sur ce qui est en train de se mettre en place dans notre dos depuis la Silicon Valley
 
 #### [Signataires](signataires.md)
+#### [Epilogue](epilogue.md)
 
 Sur la forme, ce pourrait être une mini nouvelle qui anticiperai sur notre futur probable (les histoires parlent beaucoup plus au gens que les manifestes politiques). On pourrait éventuellement y rajouter un court épilogue qui ferait le lien avec notre present et sui conclurait avec un call for action : ne vous bradez pas en confiant tous les details de votre vie privée contre des applis « gratuites » et considérez des alternatives aux GAFAM a qui il va falloir donner leur chance (si on veut sortir de ce cauchemar annoncé). 
 
    (Disclaimer de Thomas : quand j’écris j’itère bcp, donc les phrases proposées ici sont tres susceptibles de changer/disparaitre ;-)
+   
+
 
 ---
 
